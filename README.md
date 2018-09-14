@@ -6,4 +6,5 @@ Esta red neuronal carga datos sobre la temperatura promedio por mes por estado e
 
 
 ## Datos Obtenidos
-CVS obtenido de la CONAGUA publicado el 19/10/2017 
+CVS obtenido de la CONAGUA publicado el 19/10/2017
+datos obtenidos de: https://datos.gob.mx/busca/dataset/temperatura-promedio-excel
